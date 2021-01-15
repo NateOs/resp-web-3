@@ -25,6 +25,9 @@ h3 {
 p {
     font-size: 16px;
 }
+span {
+    color: var(--orange);
+}
 
 :root {
     --blue: #3581B8;
